@@ -41,7 +41,7 @@ Solana 中文內容並不是沒有，然而目前我們所能觸及的中文內�
 雖然在 Solana 的投入不算到非常早（2021 年中），但在過去兩年中算是留下了一些痕跡：
 
 - 寫了 [Anchor 教學](https://github.com/ironaddicteddog/anchor-escrow) ，傳播度還算不錯
-- 曾經籌辦線下技術聚會長達一年
+- 曾經籌辦線下技術聚會 [SolMeet](https://www.youtube.com/playlist?list=PL2ixB7QxjQ37urLK8UDjrIyFbGfuspiVi) 長達一年
 - Solana Foundation 的長期合作夥伴，並協助籌劃 Taipei Hacker House
 - 我們的使命：「探索邊界」
 
